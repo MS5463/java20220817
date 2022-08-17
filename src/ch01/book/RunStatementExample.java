@@ -8,3 +8,4 @@ public class RunStatementExample {
 		System.out.println(x + "+" + y + "=" + result);		//콘솔에 출력하는 메소드 호출
 	}
 }
+//18p
