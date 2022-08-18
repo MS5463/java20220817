@@ -1,6 +1,6 @@
-package book;
+package ch02.book_02;
 
-public class VariableScopleExample {
+public class P37_VariableScopleExample {
 	public static void main(String[] args) {
 		int v1 = 15;
 		if(v1>10) {
@@ -9,3 +9,4 @@ public class VariableScopleExample {
 		//int v3 = v1 + v2 + 5; //v2변수를 사용할 수 없기 때문에 컴파일 에러가 생김
 	}
 }
+//37p

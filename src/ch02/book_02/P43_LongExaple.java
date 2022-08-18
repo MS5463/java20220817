@@ -1,6 +1,6 @@
-package book;
+package ch02.book_02;
 
-public class LongExaple {
+public class P43_LongExaple {
 public static void main(String[] args) {
 	long var1 = 10;
 	long var2 = 20L;
@@ -13,3 +13,4 @@ public static void main(String[] args) {
 	
 }
 }
+//43p

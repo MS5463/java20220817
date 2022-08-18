@@ -1,8 +1,8 @@
-package ch01.book;
+package ch01.book_01;
 /*
  * 작성자: 신용권
  * 작성일: 2015.12.31*/
-public class Hello {
+public class P17_Hello {
 	//프로그램 실행 진입점
 	public static void main(String[] args) {
 	//콘솔에 출력하는 실행문

@@ -1,6 +1,6 @@
-package book;
+package ch02.book_02;
 
-public class CharExample {
+public class P43_CharExample {
 	public static void main(String[] args) {
 		char c1 = 'A';		//문자를 직접 저장
 		char c2 = 65;		//10진수로 저장
@@ -21,3 +21,4 @@ public class CharExample {
 		System.out.println(uniCode);
 	}
 }
+//43p

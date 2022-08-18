@@ -1,6 +1,6 @@
-package book;
+package ch02.book_02;
 
-public class GarbageValueExample {
+public class P41_GarbageValueExample {
 	public static void main(String[] args) {
 		byte var1 = 125;
 		int var2 = 125;
@@ -11,3 +11,4 @@ public class GarbageValueExample {
 		}
 	}
 }
+//41p

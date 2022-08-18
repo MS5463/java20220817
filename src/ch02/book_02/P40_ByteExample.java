@@ -1,7 +1,7 @@
-package book;
+package ch02.book_02;
 
 
-public class ByteExample {
+public class P40_ByteExample {
 		public static void main(String[] args) {
 				byte var1  = -128;
 				byte var2  = -30;
@@ -17,3 +17,4 @@ public class ByteExample {
 				System.out.println(var5);
 		}
 }
+//40p

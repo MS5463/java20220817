@@ -1,6 +1,6 @@
-package book;
+package ch02.book_02;
 
-public class FloatDoubleExample {
+public class P47_FloatDoubleExample {
 		public static void main(String[] args) {
 			
 			//실수값 저장
@@ -30,3 +30,4 @@ public class FloatDoubleExample {
 			
 		}
 }
+//47p

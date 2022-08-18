@@ -1,6 +1,6 @@
-package book;
+package ch02.book_02;
 
-public class IntExample {
+public class P45_IntExample {
 	public static void main(String[] args) {
 		int var1 = 10;		//10진수로 저장
 		int var2 = 012;		//8진수로 저장
@@ -11,3 +11,4 @@ public class IntExample {
 		System.out.println(var3);
 	}
 }
+//45p

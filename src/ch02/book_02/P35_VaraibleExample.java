@@ -1,8 +1,8 @@
-package book;
+package ch02.book_02;
 
-public class VaraibleExample {
+public class P35_VaraibleExample {
 		public static void main(String[] args) {
-			//10을 변수 value의 초기앖으로 저장
+			//10을 변수 value의 초기값으로 저장
 			int value = 10;
 			
 			//변수 value 값을 읽고 10을 더하는 산술 연산을 수행
@@ -14,3 +14,4 @@ public class VaraibleExample {
 			
 		}
 }
+//35p
