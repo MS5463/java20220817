@@ -1,4 +1,4 @@
-package ch04.lecture;
+package ch04.lecture.p1control;
 
 import java.util.Iterator;
 

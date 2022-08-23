@@ -1,4 +1,4 @@
-package ch04.lecture;
+package ch04.lecture.p1control;
 
 public class C13Break {
 	public static void main(String[] args) {

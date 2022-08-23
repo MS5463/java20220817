@@ -1,4 +1,4 @@
-package ch04.lecture;
+package ch04.lecture.p1control;
 
 public class C11_While {
 	public static void main(String[] args) {
