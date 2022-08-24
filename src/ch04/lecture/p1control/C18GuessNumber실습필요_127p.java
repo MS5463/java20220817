@@ -2,7 +2,7 @@ package ch04.lecture.p1control;
 
 import java.util.Scanner;
 
-public class C18GuessNumber실습필요127 {
+public class C18GuessNumber실습필요_127p {
 	public static void main(String[] args) {
 		// 컴퓨터 1~100 random
 		int com = (int) (Math.random() * 100) + 1;
@@ -16,7 +16,7 @@ public class C18GuessNumber실습필요127 {
 			int user = scanner.nextInt();
 			
 			if (com == user) {
-				System.out.println("맞였습니다.");
+				System.out.println("정답입니다.");
 				break;
 			} else if (com>user) {
 				System.out.println("더 큰 수를 입력해 주세요");

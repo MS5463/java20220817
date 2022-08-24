@@ -1,4 +1,4 @@
-package ch03.lecture.p2binary;
+package ch03.lecture.p02binary;
 
 public class C07Logical {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ch03.lecture.p3ternary;
+package ch03.lecture.p03ternary;
 
 public class C01Ternary {
 	public static void main(String[] args) {
