@@ -21,4 +21,4 @@ public class C09Reference해석필요 {
 		
 		System.out.println(b[0][0]); //7
 	}
-}
+}a

@@ -21,4 +21,4 @@ public class C08Reference해석필요 {
 		return arr;
 
 	}
-}
+}a

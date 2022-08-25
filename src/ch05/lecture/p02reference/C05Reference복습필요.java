@@ -16,4 +16,4 @@ public class C05Reference복습필요 {
 	private static void changeItem(int[] a) {
 		a[0] = 3;
 	}
-}
+}a

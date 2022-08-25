@@ -42,5 +42,5 @@ public class P164_ArrayInArrayExample해석필요 {
 		System.out.println(Arrays.deepToString(javaScores));
 		
 	}
-}
+}a
 //164p
