@@ -2,14 +2,14 @@ package ch07.book_07.P314;
 
 public class Tire {
 	//필드
-	public int maxRotation;
-	public int accmulataRotation;
-	public String location;
+	public int maxRotation;			//최대 회전수(타이어 수명)
+	public int accmulataRotation;	//누적 회전수
+	public String location;			//타이어의 위치
 	
 	//생성자
 	public Tire(String location, int maxRotation) {
-		this.location = location;
-		this.maxRotation = maxRotation;
+		this.location = location;// 초기화 => line 05
+		this.maxRotation = maxRotation;// 초기화 => line 03
 	}
 	
 	//메소드
