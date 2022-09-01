@@ -9,5 +9,8 @@ public class C08PolyMorphism {
 		Object b = "coyote";//참조변수의 타입에 따라 사용할수 있는 메소드가 달라짐
 		
 //		System.out.println(b.length());
-	}a
+		
+		String c = (String) b; // 강제형변환 (casting)
+		System.out.println(c.length());
+	}
 }

@@ -1,4 +1,4 @@
-package ch07.book_07.P314;
+package ch07.book_07.P319;
 
 public class Tire {
 	//필드
