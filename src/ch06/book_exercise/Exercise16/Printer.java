@@ -1,14 +1,19 @@
 package ch06.book_exercise.Exercise16;
 
 public class Printer {
-	void println(int i) {
-		System.out.println();
+	public void println(int x) {
+		System.out.println(x);
 	}
-	public void println(boolean b) {
-		System.out.println(b);
+	
+	void println(boolean x) {
+		System.out.println(x);
 	}
-	void println(int i) {
-		System.out.println();
+	
+	void println(double x) {
+		System.out.println(x);
+	}
+	
+	void println(String x) {
+		System.out.println(x);
 	}
 }
-197p
