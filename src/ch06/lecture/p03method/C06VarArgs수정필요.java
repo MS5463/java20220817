@@ -1,6 +1,6 @@
 package ch06.lecture.p03method;
 
-public class C06VarArgs {
+public class C06VarArgs수정필요 {
 	public static void main(String[] args) {
 		method1();//Ctrl + 1
 	}

@@ -1,6 +1,6 @@
 package ch11.book_11.P490;
 
-public class ClassExample {
+public class ClassExample수정필요 {
 	public static void main(String[] args) {
 		Car car = new Car();
 		Class clazz1 = car.getClass();
@@ -18,4 +18,4 @@ public class ClassExample {
 			e.printStackTrace();
 		}
 	}
-}a
+}ㅁ

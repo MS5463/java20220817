@@ -1,6 +1,6 @@
 package ch10.book_10;
 
-public class P431_TryCatchFinallyRuntimeExceptionExample {
+public class P431_TryCatchFinallyRuntimeExceptionExample수정필요 {
 	public static void main(String[] args) {
 		String data1 = null;
 		String data2 = null;

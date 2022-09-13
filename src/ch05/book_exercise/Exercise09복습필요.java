@@ -2,7 +2,7 @@ package ch05.book_exercise;
 
 import java.util.Scanner;
 
-public class Exercise09 {
+public class Exercise09복습필요 {
 	public static void main(String[] args) {
 		boolean run = true;
 		int studentNum = 0;

@@ -1,6 +1,6 @@
 package ch10.lecture.p02try;
 
-public class C02Finally {
+public class C02Finally수정필요 {
 	public static void main(String[] args) {
 		int a = 3;
 		int b = 0;

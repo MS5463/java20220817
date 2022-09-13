@@ -1,6 +1,6 @@
 package ch08.book_8.P381;
 
-public class DefaultMethodExample {
+public class DefaultMethodExample수정필요 {
 	public static void main(String[] args) {
 		MyInterface mi1 = new MyClassA();
 		mi1.method1();//재정의한 메소드 실행

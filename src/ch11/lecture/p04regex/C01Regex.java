@@ -78,7 +78,7 @@ public class C01Regex {
 		String p13 = "d[^o]+g";
 		System.out.println("dog".matches(p13));//false
 		System.out.println("dag".matches(p13));//true
-		System.out.println("dadcdefg".matches(p13));//true
+		System.out.println("dabcdefg".matches(p13));//true
 		
 		// 수량
 		// + : 1개 이상
@@ -156,5 +156,7 @@ public class C01Regex {
 		
 		String p26 = "www\\.[a-z]+\\.com";
 		System.out.println(www.daum.com.matches(p26));
+		System.out.println(daum.com.matches(p26));
+		System.out.println(www.daumcom.matches(p26));
 	}
 }

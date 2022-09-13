@@ -1,6 +1,6 @@
 package ch05.book_05.P172;
 
-public class EnumMethodExample {
+public class EnumMethodExample실습필요 {
 	public static void main(String[] args) {
 		//name() 메소드
 		Week today = Week.SUNDAY;
