@@ -1,9 +1,9 @@
 package ch13.book_13.P669;
 
 public class StorageImpl<T> implements Storage<T> {
-	private T {} array;
+	private T [] array;
 	
-	public StorageImple(int capacity) {
+	public StorageImpl(int capacity) {
 		this.array = (T[]) (new Object[capacity]);
 	}
 	

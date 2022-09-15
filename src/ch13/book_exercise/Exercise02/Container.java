@@ -1,5 +1,12 @@
 package ch13.book_exercise.Exercise02;
 
-public class Container {
-
-}a
+public class Container<T> {
+	private T t;
+	
+	public T get() {
+		return t;
+	}
+	public void set(T t) {
+		this.t = t;
+	}
+}

@@ -1,4 +1,4 @@
-package ch13.book_exercise;
+package ch14.book_exercise;
 
 import java.util.function.IntBinaryOperator;
 
@@ -17,7 +17,9 @@ public class Exercise05반드시실습 {
 		//최대값 얻기
 		int max = maxOrMin(
 				
-		//작성
+		(a, b)->{
+			if (a>=b) { return a; } else { return b; }
+		}
 				
 		);
 		System.out.println("최대값: " + max);
@@ -25,7 +27,11 @@ public class Exercise05반드시실습 {
 		//최소값 얻기
 		int min = maxOrMin(
 				
+		(a, b)->{
+			if (a<=b) { return a; } else { return b; }
+		}
+				
 	);
 		System.out.println("최소값: " + min);
 	}
-}
+}a
