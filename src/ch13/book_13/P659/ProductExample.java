@@ -1,7 +1,5 @@
 package ch13.book_13.P659;
 
-import ch06.book_06.P235.Car;
-
 public class ProductExample {
 	public static void main(String[] args) {
 		Product<Tv, String> product1 = new Product<Tv, String>();

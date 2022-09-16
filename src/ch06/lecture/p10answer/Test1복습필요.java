@@ -2,9 +2,11 @@ package ch06.lecture.p10answer;
 
 import java.util.Arrays;
 
+import ch06.book_exercise.Exercise20.Account;
+
 public class Test1복습필요 {
 	static int[] arr = new int[3];
-	static P445_Account[] accountArray = new P445_Account[3];
+	static Account[] accountArray = new Account[3];
 	
 	public static void main(String[] args) {
 		addNumber();
@@ -15,7 +17,7 @@ public class Test1복습필요 {
 	}
 	
 	private static void addAccount() {
-		P445_Account a = new P445_Account("3", "3", 3);
+		Account a = new Account("3", "3", 3);
 		System.out.println(System.identityHashCode(a));
 		accountArray[0] = a;
 	}
@@ -23,4 +25,4 @@ public class Test1복습필요 {
 	private static void addNumber() {
 		arr[2] = 100;
 	}
-}
+}ㅁ
